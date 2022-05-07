@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_category_categories",
+  "info": {
+    "displayName": "category",
+    "icon": "arrow-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}
